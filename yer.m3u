@@ -1,38 +1,6 @@
 ﻿#EXTM3U
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:rtp-over-http=1
-#EXTINF:-1 group-title="港台",翡翠台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 group-title="港台",翡翠台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 group-title="港台",明珠台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 group-title="港台",TVB Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 group-title="港台",無綫新聞台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://cdn6.163189.xyz/
-https://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 group-title="港台",Now新聞台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://cdn.163189.xyz/
-https://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="港台",娛樂新聞台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://cdn6.163189.xyz/
-https://cdn6.163189.xyz/163189/ylxw
-#EXTINF:-1 group-title="港台",千禧經典台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 group-title="电影",天映马来西亚
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://o11.163189.xyz/
@@ -41,44 +9,7 @@ https://o11.163189.xyz/stream/live/typd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://o11.163189.xyz/
 https://o11.163189.xyz/stream/live/ccm/
-#EXTINF:-1 group-title="电影",功夫台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://cdn6.163189.xyz/
-https://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 group-title="港台",TVB XING HE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 group-title="港台",AOD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 group-title="港台",AEC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 group-title="港台",HUA HEE DAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 group-title="港台",iQIYI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 group-title="港台",8TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=http://cdn6.163189.xyz/
-http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 group-title="港台",Channel 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=http://cdn6.163189.xyz/
-http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 group-title="港台",Channel 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=http://cdn6.163189.xyz/
-http://cdn6.163189.xyz/163189/ch8
+
 #EXTINF:-1 group-title="成人",俄罗斯成人3台
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=http://live.redtraffic.xyz/
