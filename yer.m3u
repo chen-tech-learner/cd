@@ -1,15 +1,5 @@
 ﻿#EXTM3U
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:rtp-over-http=1
-#EXTINF:-1 group-title="电影",天映马来西亚
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 group-title="电影",天映經典頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://o11.163189.xyz/
-https://o11.163189.xyz/stream/live/ccm/
-
 #EXTINF:-1 group-title="成人",俄罗斯成人3台
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.190810.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=http://live.redtraffic.xyz/
